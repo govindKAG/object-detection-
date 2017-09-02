@@ -20,7 +20,3 @@ A small set of scripts for real time object detection using tensorFlow's object 
 and all other transitive dependencies
 
 This also uses the protobuf (protocol buffer) compiler by google to compile the object detection model from TensorFlow.
-
-# object detection using tensor flow
-
-A small set of scripts for real time object detection using tensorFlow's object detection API and openCV in python 3 .
